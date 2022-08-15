@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import pandas as pd
 import plotly.express as px
 import os 
@@ -527,9 +524,6 @@ def modify_table_entries(
 #發布IP設定
 if __name__ == '__main__':
     app.run_server(debug=False)
-
-
-# In[ ]:
 
 
 
